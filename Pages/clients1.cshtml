@@ -1,0 +1,98 @@
+﻿@page
+@model Front.Pages.clients1Model
+@{
+}
+
+<style>
+    /* Add some styles for a better appearance */
+    .product-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    .product-table th, .product-table td {
+        padding: 12px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+    .product-table th {
+        background-color: #f2f2f2;
+    }
+
+    .product-img-container {
+        width: 80px; /* Set the width and height for the image container */
+        height: 80px;
+        overflow: hidden;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    }
+
+    .product-img {
+        width: 100%; /* Ensure the image fills the container */
+        height: 100%;
+        object-fit: cover; /* Maintain aspect ratio and cover the container */
+        border-radius: 5px; /* Optional: add border radius to the image */
+    }
+
+    .product-actions {
+        display: flex;
+        align-items: center;
+    }
+
+    .view-btn {
+        margin-right: 5px;
+    }
+
+    /* Add styles for two columns with space between rows */
+    .product-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 30px; /* Add space between rows */
+    }
+
+    .product-cell {
+        width: 48%; /* Adjust the width based on your preference */
+    }
+</style>
+
+<br />
+<h1>Shop Page</h1>
+
+<table class="product-table">
+    <thead>
+        <tr>
+            @* <th>Photo</th>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Price</th>
+            <th>Actions</th> *@
+        </tr>
+    </thead>
+    <tbody>
+        @for (var i = 0; i < Model.ListClients.Count; i += 2)
+        {
+            <tr class="product-row">
+                @for (var j = i; j < i + 2 && j < Model.ListClients.Count; j++)
+                {
+                    var client = Model.ListClients[j];
+                    <td class="product-cell">
+                        <div class="product-img-container">
+                            <img src="@client.ImageUrl" alt="@client.Name" class="product-img" />
+                        </div><br />
+                        <strong>@client.Name</strong><br />
+                        <span>@client.Type</span><br />
+                        <span>Price: @client.Price</span><br />
+                        <div class="product-actions">
+                            <a class="btn btn-info btn-sm view-btn" href="/single-product?Name=@client.Name">
+                                <i class="fas fa-eye"></i> View
+                            </a>
+                            <!-- Add more buttons/icons for actions like Add to Cart, Wishlist, etc. -->
+                        </div>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,118 @@
+﻿@page
+@model Front.Pages.login_registerModel
+@{
+}
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Uren - Car Accessories Shop HTML Template</title>
+    <meta name="robots" content="noindex, follow" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
+
+    <!-- CSS (Omitted for brevity) -->
+
+</head>
+
+<body class="template-color-1">
+
+<div class="main-wrapper">
+    <!-- Begin Uren's Breadcrumb Area -->
+    <div class="breadcrumb-area">
+        <div class="container">
+            <div class="breadcrumb-content">
+                <h2>Other</h2>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li class="active">Login & Register</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Uren's Breadcrumb Area End Here -->
+
+    <!-- Begin Uren's Login Register Area -->
+    <div class="uren-login-register_area">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6">
+                    <!-- Login Form -->
+                    <form method="post" asp-page-handler="Login">
+                        <div class="login-form">
+                            <h4 class="login-title">Login</h4>
+                            <div class="row">
+                                <div class="col-md-12 col-12">
+                                    <label>Email Address*</label>
+                                    <input type="email" name="Email" placeholder="Email Address" required>
+                                </div>
+                                <div class="col-12 mb--20">
+                                    <label>Password</label>
+                                    <input type="password" name="Password" placeholder="Password" required>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="check-box">
+                                        <input type="checkbox" id="remember_me" name="RememberMe">
+                                        <label for="remember_me">Remember me</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="forgotton-password_info">
+                                        <a href="#"> Forgotten password?</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <button class="uren-login_btn" type="submit">Login</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xs-12">
+                    <!-- Register Form -->
+                    <form method="post" asp-page-handler="Register">
+                        <div class="login-form">
+                            <h4 class="login-title">Register</h4>
+                            <div class="row">
+                                <div class="col-md-6 col-12 mb--20">
+                                    <label>First Name</label>
+                                    <input type="text" name="FirstName" placeholder="First Name" required>
+                                </div>
+                                <div class="col-md-6 col-12 mb--20">
+                                    <label>Last Name</label>
+                                    <input type="text" name="LastName" placeholder="Last Name" required>
+                                </div>
+                                <div class="col-md-12">
+                                    <label>Email Address*</label>
+                                    <input type="email" name="Email" placeholder="Email Address" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <label>Password</label>
+                                    <input type="password" name="Password" placeholder="Password" required>
+                                </div>
+                                <div class="col-md-6">
+                                    <label>Confirm Password</label>
+                                    <input type="password" name="ConfirmPassword" placeholder="Confirm Password" required>
+                                </div>
+                                <div class="col-12">
+                                    <button class="uren-register_btn" type="submit">Register</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Uren's Login Register Area End Here -->
+</div>
+
+<!-- JS (Omitted for brevity) -->
+
+</body>
+</html>

@@ -1,0 +1,677 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/obj/Debug/net6.0/scopedcss/projectbundle/Front.bundle.scp.css",
+      "PackagePath": "staticwebassets/Front.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/img/loading.gif",
+      "PackagePath": "staticwebassets/assets/css/img/loading.gif"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/img/video-play.png",
+      "PackagePath": "staticwebassets/assets/css/img/video-play.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/img/vimeo-play.png",
+      "PackagePath": "staticwebassets/assets/css/img/vimeo-play.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/img/youtube-play.png",
+      "PackagePath": "staticwebassets/assets/css/img/youtube-play.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/animate.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/animate.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/images/ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/images/ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/images/ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/images/ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/images/ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/images/ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets/assets/css/plugins/images/ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/jquery-ui.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/jquery-ui.min.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/lightgallery.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/lightgallery.min.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/nice-select.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/nice-select.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/plugins/slick.css",
+      "PackagePath": "staticwebassets/assets/css/plugins/slick.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/vendor/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/css/vendor/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/vendor/font-awesome.css",
+      "PackagePath": "staticwebassets/assets/css/vendor/font-awesome.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/vendor/fontawesome-stars.css",
+      "PackagePath": "staticwebassets/assets/css/vendor/fontawesome-stars.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/css/vendor/ion-fonts.css",
+      "PackagePath": "staticwebassets/assets/css/vendor/ion-fonts.css"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/ionicons28b5.eot",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/ionicons28b5.svg",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.svg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/ionicons28b5.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.ttf"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/ionicons28b5.woff",
+      "PackagePath": "staticwebassets/assets/fonts/ionicons28b5.woff"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/lgd41d.eot",
+      "PackagePath": "staticwebassets/assets/fonts/lgd41d.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/lgd641.eot",
+      "PackagePath": "staticwebassets/assets/fonts/lgd641.eot"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/lgd641.svg",
+      "PackagePath": "staticwebassets/assets/fonts/lgd641.svg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/lgd641.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/lgd641.ttf"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/fonts/lgd641.woff",
+      "PackagePath": "staticwebassets/assets/fonts/lgd641.woff"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/about-us/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-us/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/about-us/team/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-us/team/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/about-us/team/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-us/team/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/about-us/team/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-us/team/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/about-us/team/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/about-us/team/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/1-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/1-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/1-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/1-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/1-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/1-3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/1-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/1-4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/1-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/1-5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/1-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/1-6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/2-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/2-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/2-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/2-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/2-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/2-3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/2-4.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/2-4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/2-5.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/2-5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/2-6.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/2-6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/3-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/3-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/3-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/3-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/banner/3-3.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/3-3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/admin.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/admin.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/large-size/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/large-size/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/large-size/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/large-size/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/large-size/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/large-size/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/large-size/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/large-size/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/large-size/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/large-size/5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/large-size/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/large-size/6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/medium-size/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/medium-size/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/medium-size/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/medium-size/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/medium-size/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/medium-size/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/medium-size/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/medium-size/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/medium-size/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/medium-size/5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/medium-size/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/medium-size/6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/blog/user.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/user.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/brand/7.jpg",
+      "PackagePath": "staticwebassets/assets/images/brand/7.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/breadcrumb/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/breadcrumb/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/favicon.ico",
+      "PackagePath": "staticwebassets/assets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/featured-categories/1.png",
+      "PackagePath": "staticwebassets/assets/images/featured-categories/1.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/featured-categories/2.png",
+      "PackagePath": "staticwebassets/assets/images/featured-categories/2.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/featured-categories/3.png",
+      "PackagePath": "staticwebassets/assets/images/featured-categories/3.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/featured-categories/4.png",
+      "PackagePath": "staticwebassets/assets/images/featured-categories/4.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/featured-categories/5.png",
+      "PackagePath": "staticwebassets/assets/images/featured-categories/5.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/featured-categories/6.png",
+      "PackagePath": "staticwebassets/assets/images/featured-categories/6.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/footer/newsletter/bg-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/footer/newsletter/bg-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/footer/payment/1.png",
+      "PackagePath": "staticwebassets/assets/images/footer/payment/1.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/menu/icon/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/menu/icon/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/menu/icon/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/menu/icon/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/menu/logo/1.png",
+      "PackagePath": "staticwebassets/assets/images/menu/logo/1.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/menu/logo/2.png",
+      "PackagePath": "staticwebassets/assets/images/menu/logo/2.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/menu/logo/3.png",
+      "PackagePath": "staticwebassets/assets/images/menu/logo/3.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/newsletters/bg-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/newsletters/bg-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/10.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/10.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/7.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/7.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/8.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/8.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/large-size/9.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/large-size/9.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/1-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/1-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/1-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/1-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/2-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/2-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/2-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/2-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/3-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/3-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/3-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/3-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/4-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/4-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/4-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/4-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/5-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/5-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/5-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/5-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/6-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/6-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/6-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/6-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/7-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/7-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/7-2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/7-2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/medium-size/8-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/medium-size/8-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/small-size/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/small-size/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/small-size/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/small-size/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/small-size/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/small-size/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/small-size/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/small-size/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/small-size/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/small-size/5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/product/small-size/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/product/small-size/6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/shop/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/slider/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider/1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/slider/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider/2.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/slider/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider/3.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/slider/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider/4.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/slider/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider/5.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/slider/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/slider/6.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/testimonial/bg-1.jpg",
+      "PackagePath": "staticwebassets/assets/images/testimonial/bg-1.jpg"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/testimonial/user/1.png",
+      "PackagePath": "staticwebassets/assets/images/testimonial/user/1.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/testimonial/user/2.png",
+      "PackagePath": "staticwebassets/assets/images/testimonial/user/2.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/images/testimonial/user/3.png",
+      "PackagePath": "staticwebassets/assets/images/testimonial/user/3.png"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery.barrating.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.barrating.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery.counterup.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.counterup.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery.nice-select.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.nice-select.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery.sticky-sidebar.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.sticky-sidebar.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/jquery.zoom.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/jquery.zoom.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/lightgallery.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/lightgallery.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/scroll-top.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/scroll-top.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/slick.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/slick.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/theia-sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/theia-sticky-sidebar.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/plugins/waypoints.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/vendor/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/vendor/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/vendor/modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "/Users/kareemmohamed/Downloads/Front/Front/wwwroot/assets/js/vendor/popper.min.js",
+      "PackagePath": "staticwebassets/assets/js/vendor/popper.min.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Front.props",
+      "PackagePath": "build\\Front.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Front.props",
+      "PackagePath": "buildMultiTargeting\\Front.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Front.props",
+      "PackagePath": "buildTransitive\\Front.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

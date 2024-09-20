@@ -1,0 +1,485 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Front</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Front.styles.css" asp-append-version="true" />
+
+
+    <!-- CSS
+    ============================================ -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="assets/css/vendor/font-awesome.css">
+    <!-- Fontawesome Star -->
+    <link rel="stylesheet" href="assets/css/vendor/fontawesome-stars.css">
+    <!-- Ion Icon -->
+    <link rel="stylesheet" href="assets/css/vendor/ion-fonts.css">
+    <!-- Slick CSS -->
+    <link rel="stylesheet" href="assets/css/plugins/slick.css">
+    <!-- Animation -->
+    <link rel="stylesheet" href="assets/css/plugins/animate.css">
+    <!-- jQuery Ui -->
+    <link rel="stylesheet" href="assets/css/plugins/jquery-ui.min.css">
+    <!-- Lightgallery -->
+    <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css">
+    <!-- Nice Select -->
+    <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
+
+    <!-- Vendor & Plugins CSS (Please remove the comment from below vendor.min.css & plugins.min.css for better website load performance and remove css files from the above) -->
+    <!--
+    <script src="assets/js/vendor/vendor.min.js"></script>
+    <script src="assets/js/plugins/plugins.min.js"></script>
+    -->
+    <!-- Main Style CSS (Please use minify version for better website load performance) -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!--<link rel="stylesheet" href="assets/css/style.min.css">-->
+</head>
+<body>
+    <header class="header-main_area bg--sapphire">
+            <div class="header-top_area d-lg-block d-none">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-7 col-lg-8">
+                            <div class="main-menu_area position-relative">
+                                <nav class="main-nav">
+                                    <ul>
+                                        <li class="dropdown-holder active"><a href="Index">Home</a>
+                                            
+                                        </li>
+                                            
+                                                
+                                        <li class=""><a href="javascript:void(0)">Pages <i class="ion-ios-arrow-down"></i></a>
+                                            <ul class="hm-dropdown">
+                                                <li><a href="Clients1">shop page</a></li>
+                                                <li><a href="my-account">My Account</a></li>
+                                                <li><a href="login-register">Login | Register</a></li>
+
+                                                <li><a href="cart">Cart</a></li>
+                                                
+
+                                            </ul>
+                                        </li>
+                                        
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        <div class="col-xl-5 col-lg-4">
+                            <div class="ht-right_area">
+                                <div class="ht-menu">
+                                    <ul>
+                                        
+                                        
+                                        <li><a href="my-account">My Account<i class="fa fa-chevron-down"></i></a>
+                                            <ul class="ht-dropdown ht-my_account">
+                                                <li><a href="javascript:void(0)">Register</a></li>
+                                                <li class="active"><a href="javascript:void(0)">Login</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-top_area header-sticky bg--sapphire">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-8 col-lg-7 d-lg-block d-none">
+                            <div class="main-menu_area position-relative">
+                                <nav class="main-nav">
+                                    <ul>
+                                        <li class="dropdown-holder active"><a href="Index">Home</a>
+                                            
+                                        
+                                        
+                                        <li class=""><a href="javascript:void(0)">Pages <i
+                                                class="ion-ios-arrow-down"></i></a>
+                                            <ul class="hm-dropdown">
+                                                <li><a href="my-account">My Account</a></li>
+                                                <li><a href="login-register">Login | Register</a></li>
+                                                <li><a href="Clients1">shop page</a></li>
+                                                <li><a href="cart">Cart</a></li>
+                                                
+                                                
+                                            </ul>
+                                        </li>
+                                        
+                                        
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                        
+                        <div class="col-xl-4 col-lg-5 col-sm-9">
+                            <div class="header-right_area">
+                                <ul>
+                                    <li class="mobile-menu_wrap d-flex d-lg-none">
+                                        <a href="#mobileMenu" class="mobile-menu_btn toolbar-btn color--white">
+                                            <i class="ion-navicon"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div class="header-middle_area">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="header-logo_area col-12 d-flex justify-content-center">
+                        <a href="Index">
+                            <span class="logo-text font-weight-bold">MotiveMart</span>
+                        </a>
+                    </div>
+                    <div class="custom-category_col col-12"></div>
+                    <div class="custom-cart_col col-12">
+                        <div class="header-right_area">
+                            <ul>
+                                <li class="mobile-menu_wrap d-flex d-lg-none">
+                                    <a href="#mobileMenu" class="mobile-menu_btn toolbar-btn color--white">
+                                        <i class="ion-navicon"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="mobile-menu_wrapper" id="mobileMenu">
+                <div class="offcanvas-menu-inner">
+                    <div class="container">
+                        <a href="#" class="btn-close"><i class="ion-android-close"></i></a>
+                        <div class="offcanvas-inner_search">
+                            <form action="#" class="inner-searchbox">
+                                <input type="text" placeholder="Search for item...">
+                                <button class="search_btn" type="submit"><i class="ion-ios-search-strong"></i></button>
+                            </form>
+                        </div>
+                        <nav class="offcanvas-navigation">
+                            <ul class="mobile-menu">
+                                <li class="menu-item-has-children active"><a href="Index"><span
+                                        class="mm-text">Home</span></a>
+                                    
+                                </li>
+                                <li class="menu-item-has-children">
+                                    <a href="shop-left-sidebar.html">
+                                        <span class="mm-text">Shop</span>
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li class="menu-item-has-children">
+                                            <a href="shop-left-sidebar.html">
+                                                <span class="mm-text">Grid View</span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li>
+                                                    <a href="shop-grid-fullwidth">
+                                                        <span class="mm-text">Column Three</span>
+                                                    </a>
+                                                </li>
+                                                
+                                                
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="shop-list-left-sidebar.html">
+                                                <span class="mm-text">Shop List</span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li>
+                                                    <a href="shop-list-fullwidth.html">
+                                                        <span class="mm-text">Full Width</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop-list-left-sidebar.html">
+                                                        <span class="mm-text">Left Sidebar</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="shop-list-right-sidebar.html">
+                                                        <span class="mm-text">Right Sidebar</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="single-product-gallery-left.html">
+                                                <span class="mm-text">Single Product Style</span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li>
+                                                    <a href="single-product-gallery-left.html">
+                                                        <span class="mm-text">Gallery Left</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-gallery-right.html">
+                                                        <span class="mm-text">Gallery Right</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-tab-style-left.html">
+                                                        <span class="mm-text">Tab Style Left</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-tab-style-right.html">
+                                                        <span class="mm-text">Tab Style Right</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-sticky-left.html">
+                                                        <span class="mm-text">Sticky Left</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-sticky-right.html">
+                                                        <span class="mm-text">Sticky Right</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="single-product">
+                                                <span class="mm-text">Single Product Type</span>
+                                            </a>
+                                            <ul class="sub-menu">
+                                                <li>
+                                                    <a href="single-product">
+                                                        <span class="mm-text">Single Product</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-sale.html">
+                                                        <span class="mm-text">Single Product Sale</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-group.html">
+                                                        <span class="mm-text">Single Product Group</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-variable.html">
+                                                        <span class="mm-text">Single Product Variable</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-affiliate.html">
+                                                        <span class="mm-text">Single Product Affiliate</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="single-product-slider.html">
+                                                        <span class="mm-text">Single Product Slider</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="menu-item-has-children">
+                                    <a href="Index">
+                                        <span class="mm-text">Pages</span>
+                                    </a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="my-account">
+                                                <span class="mm-text">My Account</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="login-register">
+                                                <span class="mm-text">Login | Register</span>
+                                            </a>
+                                        </li>
+                                        
+                                        <li>
+                                            <a href="cart">
+                                                <span class="mm-text">Cart</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="checkout">
+                                                <span class="mm-text">Checkout</span>
+                                            </a>
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                        <nav class="offcanvas-navigation user-setting_area">
+                            <ul class="mobile-menu">
+                                <li class="menu-item-has-children active"><a href="javascript:void(0)"><span
+                                        class="mm-text">User
+                                        Setting</span></a>
+                                    <ul class="sub-menu">
+                                        <li>
+                                            <a href="my-account">
+                                                <span class="mm-text">My Account</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="login-register">
+                                                <span class="mm-text">Login | Register</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <div class="uren-footer_area">
+       
+    <div class="footer-middle_area">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="footer-widgets_info">
+                        <div class="footer-widgets_logo">
+                            <a href="Index">
+                                <span class="logo-text font-weight-bold">MotiveMart</span>
+                            </a>
+                        </div>
+                        <div class="widget-short_desc">
+                            <p>
+                                We provide top-quality car spare parts and accessories to keep your vehicle running smoothly.
+                            </p>
+                        </div>
+                        <div class="widgets-essential_stuff">
+                            <ul>
+                                <li class="uren-address">
+                                    <span>Address:</span> The Barn,
+                                    Ullenhall, Henley
+                                    in
+                                    Arden B578 5CC, England
+                                </li>
+                                <li class="uren-phone">
+                                    <span>
+                                        Call
+                                        Us:
+                                    </span> <a href="tel://+123123321345">+123 321 345</a>
+                                </li>
+                                <li class="uren-email"><span>Email:</span> <a href="mailto://info@yourdomain.com">info@yourdomain.com</a></li>
+                            </ul>
+                        </div>
+                        <div class="uren-social_link">
+                            <ul>
+                                <li class="facebook">
+                                    <a href="https://www.facebook.com/" data-toggle="tooltip" target="_blank" title="Facebook">
+                                        <i class="fab fa-facebook"></i>
+                                    </a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="https://twitter.com/" data-toggle="tooltip" target="_blank" title="Twitter">
+                                        <i class="fab fa-twitter-square"></i>
+                                    </a>
+                                </li>
+                                <li class="google-plus">
+                                    <a href="https://www.plus.google.com/discover" data-toggle="tooltip" target="_blank" title="Google Plus">
+                                        <i class="fab fa-google-plus"></i>
+                                    </a>
+                                </li>
+                                <li class="instagram">
+                                    <a href="https://rss.com/" data-toggle="tooltip" target="_blank" title="Instagram">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="footer-widgets_area">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-6">
+                                <div class="footer-widgets_title">
+                                    <h3>Information</h3>
+                                </div>
+                                <div class="footer-widgets">
+                                    <ul>
+                                        <li><a href="javascript:void(0)">About Us</a></li>
+                                        <li><a href="javascript:void(0)">Delivery Information</a></li>
+                                        <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                                        <li><a href="javascript:void(0)">Terms & Conditions</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="footer-widgets_title">
+                                    <h3>Customer Service</h3>
+                                </div>
+                                <div class="footer-widgets">
+                                    <ul>
+                                        <li><a href="javascript:void(0)">Contact Us</a></li>
+                                        <li><a href="javascript:void(0)">Returns</a></li>
+                                        <li><a href="javascript:void(0)">Site Map</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="footer-widgets_title">
+                                    <h3>Extras</h3>
+                                </div>
+                                <div class="footer-widgets">
+                                    <ul>
+                                        <li><a href="javascript:void(0)">About Us</a></li>
+                                        <li><a href="javascript:void(0)">Delivery Information</a></li>
+                                        <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                                        <li><a href="javascript:void(0)">Terms & Conditions</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="footer-widgets_title">
+                                    <h3>My Account</h3>
+                                </div>
+                                <div class="footer-widgets">
+                                    <ul>
+                                        <li><a href="javascript:void(0)">My Account</a></li>
+                                        <li><a href="javascript:void(0)">Order History</a></li>
+                                        <li><a href="javascript:void(0)">Wish List</a></li>
+                                        <li><a href="javascript:void(0)">Newsletter</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
